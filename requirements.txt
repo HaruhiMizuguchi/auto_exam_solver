@@ -1,0 +1,6 @@
+openai>=1.46.0
+pillow
+pyautogui
+pytesseract
+python-dotenv
+mss
